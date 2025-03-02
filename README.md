@@ -77,3 +77,11 @@ http://127.0.0.1:5000
 3. /register
 4. /score/<username>
 Your game application should now be running!
+
+
+## Depolyed urls
+used render and vercel for deployments
+
+## frontend url: https://game-frontend-blond.vercel.app/
+## Backend url: https://game-backend-2-5wlb.onrender.com/<end-point>
+
